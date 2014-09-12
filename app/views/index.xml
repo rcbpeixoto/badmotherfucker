@@ -1,0 +1,13 @@
+<Alloy>
+	<Window class="container" navBarHidden="true">
+		<View id="view_badmotherfucker_banner">
+			<ImageView id="image_badmotherfucker_banner" image="/images/bad_motherfucker.png"/>
+		</View>
+		<View id="view_btn_area">
+			<Button onClick="onWhatMarcellusWallaceLookLike">What does Marcellus Wallace look like?</Button>
+			<Button onClick="onDoesHeLookLikeABitch">Does he look like a bitch?</Button>
+			<Button onClick="onLorem">Lorem Motherfucking Ipsum</Button>
+			<Button onClick="onMotherfuckingGifs">Motherfucking GIFs</Button>
+		</View>
+	</Window>
+</Alloy>

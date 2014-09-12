@@ -1,0 +1,12 @@
+".container": {
+	backgroundColor: "black",
+	orientation: 'vertical'
+},
+"#animImage": {
+	width: '100%',
+	height: '60%'
+} 
+"#back": {
+	width: '100%',
+	height: '100%'
+}

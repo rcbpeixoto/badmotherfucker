@@ -1,0 +1,16 @@
+<<<<<<< HEAD
+.DS_Store
+Resources
+build.log
+build
+npm-debug.log
+tmp
+.map
+.project
+.settings
+Thumbs.db
+=======
+# Build folder and log file
+build/
+build.log
+>>>>>>> 1e31f6e1c3ea0ae951480ce295c53452d4932708

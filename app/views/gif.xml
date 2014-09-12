@@ -1,0 +1,6 @@
+<Alloy>
+    <Window class="container">
+        <ImageView id='animImage'/>
+        <Button id="back">back</Button>
+    </Window>
+</Alloy>

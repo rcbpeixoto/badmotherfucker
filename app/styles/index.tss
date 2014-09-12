@@ -1,0 +1,32 @@
+".container": {
+	backgroundColor: "#0E0E0E",
+	layout:"vertical"
+}
+"Label": {
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE,
+	color: "#000"
+}
+"Button": {
+	top:'4%',
+	width: '90%',
+	color:'white',
+	backgroundColor:'#E3690E',
+	borderRadius: '5',
+	borderWidth: '1.5',
+	borderColor: 'white'
+}
+"#view_btn_area": {
+	layout:'vertical',
+	height:'50%'
+}
+"#image_badmotherfucker_banner": {
+	width: '100%',
+	height: '100%',
+	image: '/images/bad_motherfucker.png'
+}
+"#view_badmotherfucker_banner": {
+	width:'100%',
+	height:'40%',
+	layout:'vertical'
+}

@@ -1,0 +1,15 @@
+".container": {
+	backgroundColor: "#0E0E0E",
+	layout:"vertical"
+}
+
+"Label": {
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE,
+	left: '5%',
+	right: '5%',
+	color: "#E3690E"
+}
+"#scrollview_text": {
+	
+}
