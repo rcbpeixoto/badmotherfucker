@@ -1,4 +1,0 @@
-badmotherfucker
-===============
-
-Titanium Test APP
